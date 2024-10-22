@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola Soy Juan Francisco 👋
+
+Ing. Sistemas Computacionales, con experiencia en desarroolo de Software.
+
+Programas que de domina y conoce un nivel de programación.
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png
 
 <!--
 **TheKingSpectro/TheKingSpectro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
