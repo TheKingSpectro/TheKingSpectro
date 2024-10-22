@@ -1,28 +1,48 @@
-## Hola Soy Juan Francisco 👋
+# ¡Hola! 👋 Soy Juan Francisco
+### Desarrollador Front-End | Entusiasta de la Web | Solucionador de Problemas
 
-Ing. Sistemas Computacionales, con experiencia en desarroolo de Software.
+---
 
-Programas que de domina y conoce un nivel de programación.
+## Sobre Mí
 
-* Python
-* HTML5
-* CSS3
-* JavaSrcipt
-* MySQL
+¡Hola! Soy un apasionado Desarrollador Front-End con sólida experiencia en la creación de aplicaciones web dinámicas, responsivas y fáciles de usar. Mi experiencia radica en utilizar tecnologías web modernas para construir interfaces intuitivas y visualmente atractivas. Me encanta transformar ideas en aplicaciones reales y siempre estoy mejorando mis habilidades para mantenerme al día en el cambiante mundo del desarrollo web.
 
-Diseño de páginas web, de Front-end, por código como Canva. Plataformas que he trabnajado es Moodle, Google Drive.
+### Lenguajes y Herramientas
 
-<!--
-**TheKingSpectro/TheKingSpectro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Lenguajes**: 
+  - HTML5
+  - CSS3 (Sass, Tailwind CSS)
+  - JavaScript (ES6+)
+  - TypeScript
+- **Frameworks/Librerías**: 
+  - React.js
+  - Redux
+  - Next.js
+  - Vue.js
+- **Otras Herramientas**: 
+  - Git & GitHub
+  - Webpack
+  - NPM/Yarn
+  - Figma
+  - Adobe XD
+  - APIs RESTful
 
-Here are some ideas to get you started:
+### Qué Hago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥 **Diseño Web Responsivo**: Creación de sitios web móviles y amigables para el usuario.
+- 🎨 **UI/UX**: Enfocado en diseños limpios e intuitivos que ofrecen una experiencia de usuario fluida.
+- ⚡ **Optimización de Rendimiento**: Implementación de mejores prácticas para garantizar aplicaciones rápidas y escalables.
+- 🌐 **Optimización SEO**: Escribiendo HTML semántico y siguiendo las mejores prácticas de SEO.
+
+### Mis Proyectos
+
+- **[Proyecto 1](link-al-proyecto)**: Descripción de tu primer proyecto, las tecnologías usadas y el objetivo.
+- **[Proyecto 2](link-al-proyecto)**: Descripción de tu segundo proyecto.
+- **[Proyecto 3](link-al-proyecto)**: Descripción de tu tercer proyecto.
+
+### Mi Trayectoria de Aprendizaje
+
+¡Siempre estoy aprendiendo algo nuevo! Estas son algunas áreas en las que me estoy enfocando actualmente:
+- Explorando **Web3** y el mundo de las aplicaciones descentralizadas.
+- Mejorando habilidades con **TypeScript** para un desarrollo front-end más escalable.
+- Experimentando con **React Native** para el desarrollo de aplicaciones móviles.
