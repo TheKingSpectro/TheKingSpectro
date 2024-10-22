@@ -4,7 +4,13 @@ Ing. Sistemas Computacionales, con experiencia en desarroolo de Software.
 
 Programas que de domina y conoce un nivel de programación.
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png
+* Python
+* HTML5
+* CSS3
+* JavaSrcipt
+* MySQL
+
+Diseño de páginas web, de Front-end, por código como Canva. Plataformas que he trabnajado es Moodle, Google Drive.
 
 <!--
 **TheKingSpectro/TheKingSpectro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
